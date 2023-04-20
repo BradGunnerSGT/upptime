@@ -10,7 +10,16 @@ sites:
     url: https://utsa.edu
   - name: UTSA my.utsa.edu
     url: https://my.utsa.edu
+  - name: ADFS JPL1 (White)
+    url: https://adfs-jpl2.it.utsa.edu
+    __dangerous__disable_verify_host: true
   - name: ADFS JPL2 (Grey)
+    url: https://adfs-jpl2.it.utsa.edu
+    __dangerous__disable_verify_host: true
+  - name: ADFS AET1 (Pink)
+    url: https://adfs-jpl2.it.utsa.edu
+    __dangerous__disable_verify_host: true
+  - name: ADFS AET2 (Jade)
     url: https://adfs-jpl2.it.utsa.edu
     __dangerous__disable_verify_host: true
 

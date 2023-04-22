@@ -40,19 +40,19 @@
     "url": "https://my.utsa.edu",
     "icon": "https://icons.duckduckgo.com/ip3/my.utsa.edu.ico",
     "slug": "utsa-my-utsa-edu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 577,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 332,
+    "timeDay": 426,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2023-04-22": 0
+      "2023-04-22": 10
     }
   },
   {

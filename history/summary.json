@@ -42,9 +42,9 @@
     "url": "https://my.utsa.edu",
     "icon": "https://icons.duckduckgo.com/ip3/my.utsa.edu.ico",
     "slug": "utsa-my-utsa-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -54,6 +54,7 @@
     "timeMonth": 304,
     "timeYear": 321,
     "dailyMinutesDown": {
+      "2023-06-19": 0,
       "2023-04-22": 23
     }
   },
